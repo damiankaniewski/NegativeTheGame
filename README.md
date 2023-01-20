@@ -3,16 +3,16 @@
 It is a 2D mobile game created with Unity. **Still work in progress**, but the features the game has:
 - Constantly jumping ball, ability to move horizontally
 - Few types of surfaces and obstacles:
-  - **static**
-    - surfaces
-    - walls
+  - **Static**
+    - Surfaces
+    - Walls
   - **dynamic**
-    - physics objects
-    - animated objects
+    - Physics objects
+    - Animated objects
 - Colors:
-  - **black**, you *can* touch it
-  - **white**, you *can't* touch it
-  - smooth change of background colors
+  - **Black**, you *can* touch it
+  - **White**, you *can't* touch it
+  - Smooth change of background colors
 - Checkpoints
 - Level finish
   - Allows you to get into next level
